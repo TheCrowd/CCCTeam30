@@ -6,6 +6,6 @@ StreamingTweets project id the Twitter Harvest project through Streaming API.
 
 CloudStorm project is the whole Storm structure for our system to implement all scenarios of our system.
 
-Deploymrnt folder is the collection of Script code.
+Deployment folder is the collection of Script code.
 
 The twitterPlatform project is the project of our front_end Web application.
